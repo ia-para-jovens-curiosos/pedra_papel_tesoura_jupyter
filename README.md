@@ -1,6 +1,6 @@
 # 🎮 IA para Jovens Curiosos — Pedra, Papel e Tesoura
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-assismauro%2Fia--para--jovens--curiosos-blue?logo=github)](https://github.com/assismauro/ia-para-jovens-curiosos)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-ia--para--jovens--curiosos%2Fpedra__papel__tesoura__jupyter-blue?logo=github)](https://github.com/ia-para-jovens-curiosos/pedra_papel_tesoura_jupyter)
 
 Um projeto para crianças treinarem sua própria Inteligência Artificial, usando a webcam, para jogar pedra, papel e tesoura contra o computador.
 
